@@ -18,7 +18,7 @@ DOCKER_EXTRA_ARGS=$3
 COMMAND=$4
 
 NETWORK="ariac-network"
-IP="172.18.0.22"
+IP="172.200.0.22"
 
 # XAUTH=/tmp/.docker.xauth
 # xauth nlist :0 | sed -e 's/^..../ffff/' | xauth -f $XAUTH nmerge -
